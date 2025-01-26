@@ -37,3 +37,5 @@ price-list
 src/test
 
 .env
+
+data
